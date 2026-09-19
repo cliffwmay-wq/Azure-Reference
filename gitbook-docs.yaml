@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Product Group Azure Reference
+  structure:
+    - type: space
+      key: space-azure-reference
+      title: Product Group Azure Reference
+      path: azure-reference
+      default: true
+      content:
+        directory: ./
